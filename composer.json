@@ -1,6 +1,8 @@
 {
     "name": "AdhaarJais/cryptogit",
-    "psr-4": {
-            "AdhaarJais\\cryptogit": "src",
+      "autoload": {
+        "psr-0" : {
+            "App\\" : "src"
         }
+    }
 }
