@@ -1,8 +1,9 @@
 {
     "name": "AdhaarJais/cryptogit",
-      "autoload": {
-        "psr-0" : {
-            "App\\" : "src"
-        }
-    }
+    "description": "compare cryptocurrencies",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+    },
+    
 }
+
