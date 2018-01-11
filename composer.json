@@ -1,0 +1,6 @@
+{
+    "name": "AdhaarJais/cryptogit",
+    "psr-4": {
+            "AdhaarJais\\cryptogit": "src",
+        }
+}
